@@ -1,4 +1,4 @@
 # testrepo
 ## testing the file
 
-its rhe markdown file int this repository
+It's the markdown file in this repository
